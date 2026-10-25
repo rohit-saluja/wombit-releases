@@ -1,8 +1,9 @@
-# Filemanager releases
+# Wombit releases
 
-Signed, notarized downloads of Filemanager, a Mac storage app (the name is a placeholder). Each
+Signed, notarized downloads of [Wombit](https://wombit.app), a Mac app that shows what is filling
+your disk, explains every item in plain language, and clears it safely. Each
 [release](../../releases) holds the app's DMG and the open command-line tool's zip.
 
-There's no code here: the app is built elsewhere, and its open core (the scan engine, the rules
-catalog and the command-line tool, Apache-2.0) will be published in its own repository at launch.
-Installed copies update themselves through Sparkle.
+There's no code here: the app is built elsewhere. Installed copies update themselves through
+Sparkle, and the download on [wombit.app](https://wombit.app/download) always points at the latest
+release.
